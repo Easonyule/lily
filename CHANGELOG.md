@@ -5,6 +5,19 @@ The format is a variant of [Keep a Changelog](https://keepachangelog.com/en/1.0.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Breaking changes should trigger an increment to the major version. Features increment the minor version and fixes or other changes increment the patch number.
 
+<a name="v0.8.0"></a>
+## [v0.8.0] - 2021-08-27
+
+### Docs
+- strengthen constraints on schema migrations (#683)
+
+### Chore
+- remove unused lens implementations (#654)
+- uncomment skip logic in TestFind (#682)
+- rename sentinel-visor/visor -> lily (#677)
+- remove v0 schema (#684)
+- update CI w Timescale v2.x (#686)
+
 <a name="v0.7.7"></a>
 ## [v0.7.7] - 2021-08-24
 
